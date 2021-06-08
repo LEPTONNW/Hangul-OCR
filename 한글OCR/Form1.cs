@@ -27,36 +27,7 @@ namespace 한글OCR
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            DIC.Add("페미");
-            DIC.Add("꽤미");
-            DIC.Add("한남");
-            DIC.Add("자들자들");
-            DIC.Add("여성혐오");
-            DIC.Add("냄저");
-            DIC.Add("냄져");
-            DIC.Add("좆돌");
-            DIC.Add("젠더");
-            DIC.Add("젠더 감수성");
-            DIC.Add("젠더감수성");
-            DIC.Add("흉자");
-            DIC.Add("자이루");
-            DIC.Add("모르면 배우세요");
-            DIC.Add("모르면배우세요");
-            DIC.Add("모르면공부하세요");
-            DIC.Add("모르면 공부하세요");
-            DIC.Add("모르면 외우세요");
-            DIC.Add("모르면외우세요");
-            DIC.Add("재기해");
-            DIC.Add("재기");
-            DIC.Add("부랄발광");
-            DIC.Add("좆팔");
-            DIC.Add("조팔");
-            DIC.Add("살남");
-            DIC.Add("걸스캔두애니띵");
-            DIC.Add("걸스캔두에니띵");
-            DIC.Add("캔두에니띵");
-            DIC.Add("캔두 에니띵");
-            DIC.Add("워마드");
+            DIC.Add("텍스트추가");
         }
 
         private void PathBnt_Click(object sender, EventArgs e)
